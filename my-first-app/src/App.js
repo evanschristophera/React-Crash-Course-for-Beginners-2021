@@ -1,18 +1,14 @@
+import Todo from "./components/Todo";
 function App() {
     return (
         <div>
             <h1>My Todos</h1>
-            {/*Attribute name differs from property name */}
-            <div className='card'>
-                <h2>
-                    TITLE
-                </h2>
-                <div className={'actions'}>
-                    <button className='btn'>Delete</button>
-                </div>
-            </div>
+            {/*this is how you pass data to a component using props*/}
+            <Todo text='Learn React'/>
+            <Todo text='Learn React 1'/>
+            <Todo text='Learn React 2'/>
+            <Todo text='Learn React 3'/>
         </div>
-
     );
 }
 
