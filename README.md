@@ -6,3 +6,6 @@ Video project and my notes
 - [Clean up](https://youtu.be/Dorf8i6lCuk?t=1695)
 - [Example code starts here](https://youtu.be/Dorf8i6lCuk?t=2358)
 
+- [Stopped Here](https://youtu.be/Dorf8i6lCuk?t=3623)
+
+
