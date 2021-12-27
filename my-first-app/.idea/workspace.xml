@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ba0e7a-df7b-410d-9613-e2dbfba8507e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Todo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -68,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640201207678</updated>
       <workItem from="1640201210699" duration="1866000" />
-      <workItem from="1640203375969" duration="3715000" />
+      <workItem from="1640203375969" duration="4364000" />
     </task>
     <task id="LOCAL-00001" summary="Coding for example starts: https://youtu.be/Dorf8i6lCuk?t=2552">
       <created>1640204264989</created>
@@ -84,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640205049193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added a props variable to pass info to the Todo.js component.">
+      <created>1640207188078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640207188078</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a props variable to pass info to the Todo.js component.">
+      <created>1640207652298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640207652298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +118,7 @@
     <MESSAGE value="After clean up." />
     <MESSAGE value="Coding for example starts: https://youtu.be/Dorf8i6lCuk?t=2552" />
     <MESSAGE value="Components Introduced https://youtu.be/Dorf8i6lCuk?t=2912" />
-    <option name="LAST_COMMIT_MESSAGE" value="Components Introduced https://youtu.be/Dorf8i6lCuk?t=2912" />
+    <MESSAGE value="Added a props variable to pass info to the Todo.js component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a props variable to pass info to the Todo.js component." />
   </component>
 </project>
